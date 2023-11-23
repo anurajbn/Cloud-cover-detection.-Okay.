@@ -1,0 +1,1 @@
+# Cloud-cover-detection.-Okay.
